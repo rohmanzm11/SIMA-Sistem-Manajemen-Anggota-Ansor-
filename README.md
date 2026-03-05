@@ -209,15 +209,7 @@ SIMA menyediakan berbagai laporan otomatis:
 
 ## 🤝 Kontribusi
 
-Kami menerima kontribusi dari komunitas. Untuk berkontribusi:
-
-1. Fork repository ini
-2. Buat branch fitur (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
-Pastikan code Anda mengikuti standar yang sama dengan project.
+Kami menerima kontribusi dari komunitas. Untuk berkontribusi
 
 ---
 
@@ -239,7 +231,6 @@ Jika Anda memiliki pertanyaan, saran, atau menemukan bug, silakan:
 ## 🙏 Doa
 
 **Wallahul Muwaffiq ila Aqwamit Tharieq**  
-*(Semoga Allah memberi taufik dalam kebaikan)*
 
 ---
 
@@ -260,4 +251,4 @@ Untuk menemukan project ini lebih mudah, gunakan tags berikut:
 
 Dibuat dengan ❤️ untuk organisasi GP Ansor
 
-© 2024 SIMA - All Rights Reserved
+© 2026 SIMA - All Rights Reserved
